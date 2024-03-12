@@ -8,10 +8,10 @@ Os primeiros termos da sequência de Fibonacci são 0, 1, 1, 2, 3, 5, 8, 13, 21,
 
 
 ## Utilização
-1. Execute o programa.
-2. Insira um número quando solicitado.
-3. O programa informará se o número pertence ou não à sequência de Fibonacci.
-
+1. Clone o projeto.
+2. Execute o programa.
+3. Insira um número quando solicitado.
+4. O programa informará se o número pertence ou não à sequência de Fibonacci.
 
 ## Detalhes do Código
 **Código**: Sequência de Fibonacci
